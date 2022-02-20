@@ -7,4 +7,4 @@ Selenium Webdriver (Java) is used for automation testing
 - In 'Registration' method, taking the userID and Password from 'RandomStringGenerator' method, an user will be created.
 - In 'LoginAndOrder' method, Login and all the other tasks are done.
 
-Created by: Md. Amir Hamza Faisal
+Feel free to contact - ahfaisal122@gmail.com
