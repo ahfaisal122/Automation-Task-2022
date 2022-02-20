@@ -12,7 +12,7 @@ public class MainFunctionClass {
     public static void main(String[] args) throws InterruptedException {
         //TestBase.firefoxLaunch();
         TestBase.chromeLaunch();
-        //TestBase.driver.manage().window().maximize();
+        TestBase.driver.manage().window().maximize();
         System.out.println("Browser opened");
         TestBase.openURL("http://automationpractice.com/index.php");
         System.out.println("Link opened");
